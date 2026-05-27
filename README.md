@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;CS+%40+UCLA;Incoming+SWE+Intern+%40+Capital+One;Building+with+LLMs%2C+RAG+%26+Agents&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+%40+UCLA;SWE+Intern+%40+Capital+One;Building+with+LLMs%2C+RAG+%26+Agents&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 # Hey, I'm Kian!
 
@@ -6,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kian0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianshandi@ucla.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiankian)
+
+</div>
 
 ---
 
